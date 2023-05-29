@@ -35,7 +35,7 @@ Update-Spicetify
 ## Automation/Topgrade
 This is meant to be used together with [Topgrade](https://topgrade-rs.github.io) to automate the process of updating your system.
 Simply edit your profile like shown in *Usage*.
-then edit your topgrade config with `topgrade --edit-config` and add this into the commands section:
+Then edit your topgrade config with `topgrade --edit-config` and add this into the commands section:
 ```toml
 # the `commands` key should already exist
 [commands]
